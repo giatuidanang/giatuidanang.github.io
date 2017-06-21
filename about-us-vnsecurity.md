@@ -8,6 +8,4 @@ layout: default_sidebar
 
 
 ***
-*** ĐC : 569/27 HOÀNG DIỆU-ĐÀ NẴNG
-** Hotline : 0905484025(chị Hà )
-**           0979165161(anh khoa)
+ĐC : 569/27 HOÀNG DIỆU-ĐÀ NẴNG. Hotline : 0905484025(chị Hà), 0979165161(anh Khoa)
