@@ -561,9 +561,10 @@ Header
 }
 
 #header-middle {
-/*    background:url(images/background/header-middle-bg.png) repeat-x 0 0 #e03d3d; */
-    background-color: #666666;
-    height:80px;
+    background:url(images/background/header-middle-bg.png) repeat-x 0 0 #e03d3d; 
+    /*background-color: #666666;*/
+    height:227px;
+	width:956px;
     overflow:hidden;
 }
 
