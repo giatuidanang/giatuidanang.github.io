@@ -48,14 +48,23 @@
                 <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
                 |
                 </li>
-                {% for category in site.menu_categories %}
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+                    <a href="{{ '/category/tintuc' | prepend: site.baseurl }}">Tin Tức</a>
+                </li>
+                <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+                |
+                </li>
+				<li class="menu-item menu-item-type-taxonomy menu-item-object-category">
+                    <a href="{{ '/category/lienhe' | prepend: site.baseurl }}">Liên Hệ</a>
+                </li>
+                
+				
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
                         <a href="{{ category | prepend: '/category/' | prepend: site.baseurl }}">{{ category }}</a>
                     </li>
                     <li class="menu-item menu-item-type-taxonomy menu-item-object-category">
                     |
                     </li>
-                {% endfor %}
             </ul>
         </nav>
         <!--main-nav-->
