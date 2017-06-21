@@ -6,9 +6,9 @@ paginate: false
 ### Chào mừng đến với trang Giặt Ủi Đà Nẵng
 * Hằng ngày, bạn phải lo trăm công nghìn việc ở cơ quan, khi về đến nhà lại phải dọn dẹp nhà cửa, nấu ăn, giặt quần áo,... Nếu nhà bạn có người giúp việc thì công việc nội trợ chẳng cần đến bạn, nhưng khi nhà không có người giúp việc, đi làm về, bạn sẽ phải làm tất cả các công việc nhà? Có quá nhiều việc để bạn phải làm, trong đó, giặt quần áo chiếm rất nhiều thời gian, nào là giặt - phơi - ủi - xếp,... Bạn nên tìm một dịch vụ giặt ủi để giúp bạn làm những công việc đó, vừa tiết kiệm thời gian lại vừa tiết kiệm bạc.
 
-![fido u2f](http://vnsecurity.net/assets/2016/08/fido-u2f.png)
+![fido u2f](http://vnsecurity.net/assets/a.png)
 
-### Chào mừng đến với trang Giặt Ủi Đà Nẵng
+### Các Dịch Vụ
 
 * GIẶT ĐỒ TẠI TIỆM XUẤT SẮC NHƯ NHÀ GIẶT 
 * Hãy gọi cho chúng tôi, chúng tôi sẽ nhận và giao đồ tận tay bạn. Hoàn toàn miễn phí 
